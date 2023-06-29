@@ -1,6 +1,5 @@
 // Shapes.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-//Артур Домашнє завдання №17
 #include <iostream>
 #include <string>
 #include<cmath>
